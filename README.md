@@ -40,8 +40,8 @@
 -----
 
 <details>
-<summary>JAVA</summary>
+<summary>프로그래머스</summary>
 
-    - 
+[노션](https://www.notion.so/2db66d0abb35419aafceaf4b35cedb0e?v=97476bf2203247f584e0ea81c3f717b0)
 
 </details>
